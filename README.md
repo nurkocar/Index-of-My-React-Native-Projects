@@ -56,6 +56,37 @@
             <td><a href="https://github.com/nurkocar/To-Do-App" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
         </tr>
+        <tr>
+            <td>React Navigation</td>
+            <td><a href="https://github.com/nurkocar/React-Navigation" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/React-Navigation" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Like-Unlike Posts</td>
+            <td><a href="https://github.com/nurkocar/Like-or-Unlike-Posts" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/Like-or-Unlike-Posts/blob/main/README.md" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/LikeUnlikePost.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Nesting-Navigators</td>
+            <td><a href="https://github.com/nurkocar/Nesting-Navigators" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/Nesting-Navigators" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Suggest Restaurant</td>
+            <td><a href="https://github.com/nurkocar/Web-API" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/Web-API" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Yelp App (Restaurant in selected Cities)</td>
+            <td><a href="https://github.com/nurkocar/City-Yelp-App" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/City-Yelp-App" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        
 
 </tbody>
 </table>
