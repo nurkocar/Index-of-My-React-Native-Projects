@@ -18,13 +18,13 @@
             <td>First Experience</td>
             <td><a href="https://github.com/nurkocar/MyVeryFirstReactNative-Project" target="_blank">Repo details</a></td>
             <td><a href="https://github.com/nurkocar/MyVeryFirstReactNative-Project/blob/main/README.md">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" height=130></td> 
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=130></td> 
         </tr>
         <tr>
             <td>ClarusApp Landing Page </td>
             <td><a href="https://github.com/nurkocar/Clarusway-Application" target="_blank">Repo details</a></td>
             <td><a href="https://github.com/nurkocar/Clarusway-Application/blob/main/README.md" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./images/ClarusApp.png" alt="ProjectView" height=130></td> 
+            <td><img style="width:500px;" src="./images/ClarusApp.png" alt="ProjectView" width=130></td> 
         </tr>
         <tr>
             <td>The LeaderShip's Journey</td>
