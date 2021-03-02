@@ -86,6 +86,36 @@
             <td><a href="https://github.com/nurkocar/City-Yelp-App" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
         </tr>
+        <tr>
+            <td>Redux 1</td>
+            <td><a href="https://github.com/nurkocar/React-Reduxp" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/React-Redux" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Redux 2</td>
+            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Redux 2</td>
+            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Perfect Number App</td>
+            <td><a href="https://github.com/nurkocar/Perfect-Number-App" target="_blank">Repo details</a></td>
+            <td><a href="https://snack.expo.io/@nur_k/perfectnumber" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/PerfectNumber.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Redux 2</td>
+            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
         
 
 </tbody>
