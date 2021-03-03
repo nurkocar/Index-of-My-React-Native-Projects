@@ -111,11 +111,36 @@
             <td><img style="width:500px;" src="./gifs/PerfectNumber.gif" alt="ProjectView" width=200></td> 
         </tr>
         <tr>
-            <td>Redux 2</td>
-            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Repo details</a></td>
-            <td><a href="https://github.com/nurkocar/React-Redux-2" target="_blank">Click here to see the project</a></td>
+            <td>Search Restaurants on Map</td>
+            <td><a href="https://github.com/nurkocar/Restaurant-Search-App-with-Maps" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/Restaurant-Search-App-with-Maps" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
         </tr>
+        <tr>
+            <td>React Native Firebase</td>
+            <td><a href="https://github.com/nurkocar/React-Native-Firebase-1" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/React-Native-Firebase-1" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>News Page (NEWSAPI)</td>
+            <td><a href="https://github.com/nurkocar/News-Page-with-NEWSAPI" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/News-Page-with-NEWSAPI" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>Chat App</td>
+            <td><a href="https://github.com/nurkocar/ChatApp" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/ChatApp" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/content_heart-react.gif" alt="ProjectView" width=200></td> 
+        </tr>
+        <tr>
+            <td>TiriViri App</td>
+            <td><a href="https://github.com/nurkocar/Question-Game" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/nurkocar/Question-Game/blob/main/README.md" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/TiriViri.gif" alt="ProjectView" width=200></td> 
+        </tr>
+
         
 
 </tbody>
